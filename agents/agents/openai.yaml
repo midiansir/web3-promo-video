@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web3 Promo Video"
+  short_description: "Create Web3 promotional video packs"
+  default_prompt: "Use $web3-promo-video to turn this Web3 project whitepaper and poster style into a 90-second promo video storyboard, image prompts, and Seedance 2 shot prompts."
